@@ -9,12 +9,8 @@
 ---
 
 # Laudato Si 105
-<span style="color: #black; font-size: 2em;"*There is a tendency to believe that every increase in power means “an increase of ‘progress’ itself”,
-an advance in “security, usefulness, welfare and vigour; …an assimilation of new values into the stream
-of culture”, as if reality, goodness and truth automatically flow from technological and economic
-power as such. The fact is that “contemporary man has not been trained to use power well”, because
-our immense technological development has not been accompanied by a development in human
-responsibility, values and conscience…*</span>
+<span style="font-size: 1.3em;"><span style="color: blue"> </span>*There is a tendency to believe that every increase in power means “an increase of ‘progress’ itself”,
+The fact is that “contemporary man has not been trained to use power well”, technological development has not been accompanied by a development in human values*</span>
 
 <br>
 
