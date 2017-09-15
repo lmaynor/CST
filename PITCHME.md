@@ -4,70 +4,37 @@
 <br>
 <span style="color:black">Homework 2: CST Presentation</span>
 <br>
-<span style="color:gray">Laudato Si 105</span>
-<br>
 <span style="color: blue">By: Dieter Erben and Luc Maynor</span>
 
 ---
 
-# This is an <h1> tag
+# Laudato Si 105
 
 ---
-
-<span style="color: #e49436">STEP 1. PITCHME.md</span>
-
-![MARKDOWN](https://d1z75bzl1vljy2.cloudfront.net/hello-world/markdown.png)
-
-Create GitPitch slideshow content using GitHub flavored Markdown in your favorite editor.
-
----
-
-<span style="color: #e49436">STEP 2. GIT-COMMIT</span>
-
-![TERMINAL](https://d1z75bzl1vljy2.cloudfront.net/hello-world/terminal.png)
-
-Git-commit on any branch and push your PITCHME.md to GitHub, GitLab, Bitbucket, Gitea, Gogs, or GitBucket.
-
----
-
-<span style="color: #e49436">STEP 3. GET THE WORD OUT!</span>
+<span style="color: black"> *There is a tendency to believe that every increase in power means “an increase of ‘progress’ itself”,
+an advance in “security, usefulness, welfare and vigour; …an assimilation of new values into the stream
+of culture”, as if reality, goodness and truth automatically flow from technological and economic
+power as such*</span>
 
 <br>
 
-<span style="font-size: 1.3em;"><span style="color:white">htt</span><span style="color:white">ps://git</span><span style="color: #e49436">pitch</span><span style="color: white">.com/<span style="color: #e49436">user</span>/<span style="color: #e49436">repo</span>/<span style="color: #e49436">branch</span></span>
+<span style="color: blue"> </span> Sometimes we think that technological advances will only bring positive consequences. Yet, this
+is not the case. Many technological advances throughout history have brought many problems that we were not even considering.
+It is up to us, the users of these new technological advances, to use utilize values to decide how to handle this tech advances.</span>
+
+![LOGO](http://www.caritas.org.au/images/learn_blog/20140912_cst.png)
+---
+![LOGO](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Notre_Dame_Fighting_Irish_logo.svg/2000px-Notre_Dame_Fighting_Irish_logo.svg.png)
+
+<span style="color: blue"> *The fact is that “contemporary man has not been trained to use power well”, because
+our immense technological development has not been accompanied by a development in human
+responsibility, values and conscience…
+*</span>
 
 <br>
 
-Instantly use your GitPitch slideshow URL to promote, pitch or present absolutely anything.
-
+<span style="color: black"> </span> Our technology is advancing at a very rapid rate, sometimes not giving us the time to think about
+what will happen. We tend to focus on the present, and we forget to consider the long term effects of our decisions. We need to
+give our best to try to keep up with that rapid rate, and this can be done by training people through courses like this one
+or discussions regarding the ethics of this tech advances.</span>
 ---
-
-<span style="color: #e49436">GIT</span>PITCH DESIGNED FOR SHARING
-
-![SOCIAL](https://d1z75bzl1vljy2.cloudfront.net/hello-world/gp-social.jpg)
-
-- View any slideshow at its public URL
-- Promote any slideshow using a GitHub badge
-- Embed any slideshow within a blog or website
-- Share any slideshow on Twitter, LinkedIn, etc
-- Print any slideshow as a PDF document
-- Download and present any slideshow offline
-
----
-
-<span style="color: #e49436">GIT</span>PITCH FEATURE RICH SLIDESHOWS
-
-- GitHub Flavored Markdown +
-- Code Presenting for Blocks, Files, and GISTs
-- Image and Video Slides
-- Custom Logos and Backgrounds
-- Multiple Themes And More
-- <span style="color: #e49436">Plus...</span>
-- Your Slideshow Is Part Of Your Project
-- Under Git Version Control Within Your Git Repo
-
-
----
-
-### Go for it.
-### Just add <span style="color: #e49436; text-transform: none">PITCHME.md</span> ;)
