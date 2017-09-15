@@ -14,9 +14,6 @@ The fact is that “contemporary man has not been trained to use power well”, 
 ---
 <span style="font-size: 1.3em;"><span style="color: blue"> </span> Sometimes we think that technological advances will only bring positive consequences. Yet, this
 is not the case. Many technological advances throughout history have brought many problems that we were not even considering.
-It is up to us, the users of these new technological advances, to use utilize values to decide how to handle this tech advances. Our technology is advancing at a very rapid rate, sometimes not giving us the time to think about
-what will happen. We tend to focus on the present, and we forget to consider the long term effects of our decisions. We need to
-give our best to try to keep up with that rapid rate, and this can be done by training people through courses like this one
-or discussions regarding the ethics of this tech advances</span>
+It is up to us, the users of these new technological advances, to use utilize values to decide how to handle this tech advances.
 ---
 ![LOGO](http://www.caritas.org.au/images/learn_blog/20140912_cst.png)
